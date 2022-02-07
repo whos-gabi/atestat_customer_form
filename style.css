@@ -1,0 +1,8 @@
+body {
+  font-family: Ubuntu, "times new roman", times, roman, serif;
+}
+
+.mask_custom {
+    backdrop-filter: blur(7px);
+  background-color: rgba(0, 86, 214, 0.3);
+  }
